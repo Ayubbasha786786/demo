@@ -14,5 +14,5 @@ mycursor=mydb.cursor()
 mycursor.execute("drop table if exists basicinfo2")
 #results=mycursor.fetchall()
 #print(results)
-#Demo class
+
 
